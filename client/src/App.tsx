@@ -7,7 +7,7 @@ import { ThemeProvider } from "@/components/theme-provider";
 import NotFound from "@/pages/not-found";
 import Home from "@/pages/home";
 import About from "@/pages/about";
-import Features from "@/pages/featudes";
+import Features from "@/pages/features";
 import FrequentlyAskedQuestions from "@/pages/faq";
 import Download from "@/pages/download";
 import License from "@/pages/license";
