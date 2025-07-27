@@ -1,0 +1,37 @@
+{
+  "socials": [
+    { "label": "GitHub", "href": "https://github.com/VeyzenClient", "icon": "Github" },
+    { "label": "Email", "href": "mailto:team@veyzenclient.com", "icon": "Mail" },
+    { "label": "Twitter", "href": "https://x.com/VeyzenClient", "icon": "Twitter" },
+    { "label": "YouTube", "href": "https://youtube.com/@VeyzenClient", "icon": "Youtube" }
+  ],
+  "sections": [
+    {
+      "title": "Resources",
+      "icon": "Book",
+      "links": [
+        { "label": "Features", "href": "/features", "external": false },
+        { "label": "FAQ", "href": "/faq", "external": false },
+        { "label": "License", "href": "/license", "external": false }
+      ]
+    },
+    {
+      "title": "Community",
+      "icon": "Users",
+      "links": [
+        { "label": "Discord", "href": "https://discord.gg/veyzen", "external": true },
+        { "label": "Twitter", "href": "https://x.com/VeyzenClient", "external": true },
+        { "label": "YouTube", "href": "https://youtube.com/@VeyzenClient", "external": true }
+      ]
+    },
+    {
+      "title": "Project",
+      "icon": "Code",
+      "links": [
+        { "label": "GitHub", "href": "https://github.com/VeyzenClient", "external": true },
+        { "label": "Releases", "href": "/download", "external": false },
+        { "label": "Changelog", "href": "https://github.com/VeyzenClient/veyzenclient", "external": false }
+      ]
+    }
+  ]
+}
